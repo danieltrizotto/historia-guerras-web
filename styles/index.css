@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(gray,black);
+    height: 2000px;
+}
+
+
+.header{
+    text-align: center;
+}
+
+.intro img{
+    
+    align-content: center;
+    width: 300px;
+}
+
+.main{
+    text-align: center;
+}
+
+.quiz h2{
+    text-align: center;
+    color: aquamarine;
+    font-style: italic;
+}
+
+.quiz button{
+    width: 150px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
